@@ -7,7 +7,7 @@ public class Main {
         if (caiuNaAgua) {
             System.out.println("Sobreviveu na água!");
         } else if (alturaQueda >= alturaMortal) {
-            System.out.println("Voce morreu!");
+            System.out.println("Você morreu!");
         } else {
             System.out.println("Levou dano de queda");
         }
